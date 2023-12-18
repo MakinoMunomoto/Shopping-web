@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/alt/altServlet.java=UTF-8
+encoding//src/main/java/com/alt/leaveMessage.java=UTF-8
+encoding//src/main/java/com/databaseconnection/DBConnectionManger.java=UTF-8
+encoding//src/main/java/com/databaseoperate/DataBaseOperate.java=UTF-8
+encoding//src/main/java/com/servlet/Login.java=UTF-8
+encoding//src/main/java/com/servlet/LoginServlet.java=UTF-8
+encoding//src/main/java/com/servlet/RegisterServlet.java=UTF-8
+encoding/<project>=UTF-8
